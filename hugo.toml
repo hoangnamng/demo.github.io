@@ -12,7 +12,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "hoangnamng.github.io"
+publishDir   = "demo.github.io"
 
 buildDrafts  = false
 buildFuture  = false
